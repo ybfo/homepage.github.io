@@ -6,34 +6,49 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+This is **Yubo Huang (黄宇波)**.
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI and SIGKDD Undergraduate Scholars**.
+I am an undergraduate student in the class of 2021 at the School of Civil Engineering, Southwest Jiaotong University. I have hosted or participated in a number of extracurricular innovation and entrepreneurship training programs for college students, participated in a number of scientific researches by several teachers, and created my own concept of deep learning in structural engineering and researched this program on my own initiative. I have submitted and published more than 10 papers covering civil engineering, computer science and technology, and mathematical modeling, and have been invited as a reviewer for ICLR, ICME, ICPR, ICIC, and Energies. During my undergraduate years, I was awarded one invention patent; I received more than 20 awards, including 8 national awards. I was the head of the academic department of the Mathematical Modeling Association of Southwest Jiaotong University. I received the Certificate of Talent Evaluation in Industry and Information Technology (Mathematical Modeling).
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - ybforever[at] my.swjtu.edu.cn
 
 ---
 
 ## Research Interests
 
 - [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Cyber-Physical System
-- Applied Machine Learning
+-Cross-fertilization of deep learning in civil engineering
+-Multimodal large language models
+-Multimodal interaction
+-Information security
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My main interest lies in the intersection of computer science and civil engineering, which I have proposed in three parts: computer simulation and prediction of concrete performance based on deep learning, optimization, and intelligent generation of structural engineering drawings based on a combination of CV and NLP, and vertical LLM+ embodied artificial intelligence agent method for large-scale construction. Although my current research is a bit "off-topic", I have been working hard to achieve AGI.
 
 ---
 
 ## News and Updates
 
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **2024.8.10**：One of our team papers has been accepted by Plos One. (IF = 3.7, jcr q1)
+- **2024.6.27**：One of our team paper has been accept to ICPR 2024.
+- **2024.6.10**：One of our team papers has been accepted by ICANN 2024.
+- **2024.5.23**：I presided over the 2024 College Students Innovation and Entrepreneurship Training Program (national level, fund 20,000 yuan)
+- **2024.5.12**：One of our team paper has been accept to Energy (IF = 9, jcr q1)
+- **2024.3.5**：One of our team papers has been accepted for FG 2024.
+- **2024.11.7**：Our team won the first prize at the 2023 "Higher Education Press Cup" National Undergraduate Mathematical Modeling Competition! This is the most prestigious mathematical modeling competition in China, and only 0.1% of people have won this award.
+- **2023.7.29**：One of our team papers has been accepted for AIARS 2023.
+- **2023.6.25**：I presided over a personalized experimental project of Southwest Jiaotong University (fund 3500) and participated in another personalized experimental project of Southwest Jiaotong University (fund 3500).
+- **2023.6.22**：Our team won the first prize at the 2023 Mathorcup Mathematical Modeling Competition.
+- **2023.5.23**：I participated in the 2023 National College Students Innovation and Entrepreneurship Training Project as the first participant (provincial level, fund 8,000 yuan), and participated in the 2023 National College Students Innovation and Entrepreneurship Training Project as a non-staff participant (national level, fund 20,000 yuan).
+- **2023.5.9**: I won the American Undergraduate Mathematical Modeling Highlight Award.
+- **2022.11.26**：One of our team papers has been accepted for ISAIEE 2022.
+- **2022.9.6**: Our team won the first prize at the national level in the 3rd Huasu Cup Mathematical Modeling Competition in 2022! This is the first national award our team has won since its establishment!
+- **2022.6.15**：Our team won the first prize in the 19th May 19th Mathematics Competition in 2022! This is the award we won just one week after our team was established!
+- **2022.6.8**：I won the national silver medal in the 2022 National College Students Mathematical Olympiad Competition.
+- **2022.5.24**: I hosted my first undergraduate innovation and entrepreneurship training project in my freshman year (school-level, with a fund of 1,500 yuan).
+- **2022.5.9**: I won my first mathematical modeling award: the American Undergraduate Mathematical Modeling Highlight Award.
+- **2022.4.22**: I joined the new mathematical modeling team! Our team consists of Wang Zixi (calculator, leader), Huang Yubo (modeler) and Fei Yang (writer). Our team made it to the end and won more than a dozen awards! Thanks to my teammates!
+- **2021.12.04**: The first national award I won in my first semester of freshman year: Second Prize in the 3rd National College Innovation English Challenge.
 
-<br>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
